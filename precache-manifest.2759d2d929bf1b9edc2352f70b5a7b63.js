@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90186cbe0121bfc2144e",
-    "url": "/MissBooks_Vue/css/app.cac4afb2.css"
+    "revision": "98f9575f862a1935a290",
+    "url": "/MissBooks_Vue/css/app.3d240725.css"
   },
   {
     "revision": "4cf98699140a6fcf979c337a87b4b127",
@@ -16,11 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MissBooks_Vue/img/bookstore.d0077db7.jpg"
   },
   {
-    "revision": "69fddc56f7103cead9632f39aad1cf07",
+    "revision": "3888da8bc3efe645d48908f830608fdb",
     "url": "/MissBooks_Vue/index.html"
   },
   {
-    "revision": "90186cbe0121bfc2144e",
+    "revision": "98f9575f862a1935a290",
     "url": "/MissBooks_Vue/js/app.ad845f98.js"
   },
   {
