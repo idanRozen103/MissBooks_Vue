@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MissBooks_Vue/precache-manifest.c1dcd27bfd62d0328e28cf280be61c3e.js"
+  "/MissBooks_Vue/precache-manifest.9ea1fffdbbf52521f3b1402e31b383e1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "miss_books_vue"});
